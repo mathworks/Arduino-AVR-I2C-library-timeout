@@ -15,6 +15,8 @@
   You should have received a copy of the GNU Lesser General Public
   License along with this library; if not, write to the Free Software
   Foundation, Inc., 51 Franklin St, Fifth Floor, Boston, MA  02110-1301  USA
+  
+  Modified in February, 2019 by MathWorks Inc. to include timeout for I2C read and write operations
 */
 
 #ifndef twi_h
