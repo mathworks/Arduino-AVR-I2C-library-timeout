@@ -18,7 +18,7 @@
 
   Modified 2012 by Todd Krein (todd@krein.org) to implement repeated starts
   
-  Modified in January, 2019 by MathWorks Inc. to include timeout for I2C read and write operations
+  Modified in February, 2019 by MathWorks Inc. to include timeout for I2C read and write operations
 */
 
 #include <math.h>
